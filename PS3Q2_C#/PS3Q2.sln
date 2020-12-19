@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS3Q2", "PS3Q2.csproj", "{3151275E-0265-4EF4-ACA4-60AB8E966954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3151275E-0265-4EF4-ACA4-60AB8E966954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3151275E-0265-4EF4-ACA4-60AB8E966954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3151275E-0265-4EF4-ACA4-60AB8E966954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3151275E-0265-4EF4-ACA4-60AB8E966954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA6A3053-4B4F-4B5B-82FA-F44E5AE1B002}
+	EndGlobalSection
+EndGlobal
